@@ -1,0 +1,8 @@
+name: TeamBattle
+version: ${project.version}
+main: tech.sebazcrc.teambattle.Main
+api-version: 1.16
+author: SebazCRC
+commands:
+  tb:
+  tc:
